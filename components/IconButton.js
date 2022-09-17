@@ -11,7 +11,10 @@ const IconButton = ({conatinerStyle,icon,iconStyle,onPress}) => {
         </Image>
 
     </TouchableOpacity>
-  )
+
+
+
+)
 }
 
 export default IconButton
